@@ -1,5 +1,5 @@
 <div align="center">
-<p> <em>the prayer is all of me</em></p>
+<p align="center">$\color{#EB86BC}{\textsf{the prayer is all of me}}$</p>   
 <br></br>
 <div align=center>
 <img src="https://github.com/pigwithacrown/pigwithacrown/blob/eac9add6d0e74310dfefe4966b4664cfb7339c0c/emduo.jpg" height=400 width=400>
@@ -11,4 +11,4 @@
 </p>
 <br></br>
 <div align="center">
-<p> <em>that i'd be anywhere that you are</em></p>
+<p align="center">$\color{#5F9950}{\textsf{that id' be anywhere that you are}}$</p>   
